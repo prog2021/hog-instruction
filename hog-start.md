@@ -1,12 +1,19 @@
 ## Hog Assignment Getting Started - How to Download the Assignment
 
 These instructions describe how to get started with the [Hog Project][hog]
-of [Composing Programs][compose-progs].
+from [CS61A][cs61a].
+
+After you perform these instructions you will have a Git repository
+containing all the starter code for the Hog Project.    
+You **do not** need to download a ZIP file from the cs61a web site;
+your Git repo already contains that code.
+
 
 1. Go to this Assignment URL and accept the assignment: 
    <https://classroom.github.com/a/CHAQ2BIa>
 
-   - Github will create a 'git' repository for you containing starter code.
+   - Github will create a 'git' repository for you containing starter code
+   - Github will show the URL for your Github repo. See below for how to clone this.
    - You *may* need to refresh the screen to see your repository URL.
 
 2. Open a Terminal or Command Line (cmd) window on your computer, and change to a directory
@@ -19,7 +26,7 @@ of [Composing Programs][compose-progs].
    ```
 
 3. In Step 1 (accept the assignment on Github), Github created an
-   online repository for you and shows you the URL.  
+   online repository for you and showed you the URL.  
    The URL is similar to: `https://github.com/prog2021/hog-yourgithubid`    
    with your actual Github login instead of `yourgithubid`.    
    (There is a button on Github to copy this URL to your clipboard.)    
@@ -36,7 +43,8 @@ of [Composing Programs][compose-progs].
 
 Complete the code for [The Game of Hog][hog] as described at the link.
 
-Instructions for testing and submitting your work are in your repo's README.md.
+Instructions for how to "push" your work to Github are described
+in your repository README file.
 
-[hog]: https://inst.eecs.berkeley.edu//~cs61a/fa13/proj/hog/hog.html
-[compose-progs]: http://composingprograms.com/
+[hog]: https://cs61a.org/proj/hog/
+[cs61a]: https://cs61a.org/
